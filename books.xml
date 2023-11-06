@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="books.css"?>
+<CATALOG>
+    <books>
+        <TITLE> A Man Called Ove (Paperback, Reprint)</TITLE>
+        <ARTIST>Fredrik Backman</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Atria Books</COMPANY>
+        <PRICE>Price: 20</PRICE>
+        <YEAR>2015</YEAR>
+    </books>
+    <books>
+        <TITLE> Diary of a Wimpy Kid Book #18 : No Brainer (Hardcover)</TITLE>
+        <ARTIST>Jeff Kinney</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Amulet Books</COMPANY>
+        <PRICE>Price: 21</PRICE>
+        <YEAR>2023</YEAR>
+    </books>
+    <books>
+        <TITLE> Wonder (Paperback, International Edition)</TITLE>
+        <ARTIST>R.J.Palacio</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Random House USA Inc</COMPANY>
+        <PRICE>Price: 12</PRICE>
+        <YEAR>2014</YEAR>
+    </books>
+    <books>
+        <TITLE>The 169-Storey Treehouse : Monkeys, Mirrors, Mayhem! (Paperback)</TITLE>
+        <ARTIST>Andy Griffiths</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>Pan MacMillan</COMPANY>
+        <PRICE>Price: 10.20</PRICE>
+        <YEAR>2023</YEAR>
+    </books>
+    <books>
+        <TITLE>How to Steal a Dog (Paperback)</TITLE>
+        <ARTIST>Barbara O'Connor</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Square Fish</COMPANY>
+        <PRICE>Price: 9.90</PRICE>
+        <YEAR>2009</YEAR>
+    </books>
+    <books>
+        <TITLE>Holes (Paperback)</TITLE>
+        <ARTIST>Louis Sachar</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Random House</COMPANY>
+        <PRICE>Price: 10.90</PRICE>
+        <YEAR>2000</YEAR>
+    </books>
+    <books>
+        <TITLE>Crying in H Mart: A Memoir (Paperback)</TITLE>
+        <ARTIST>Michelle Zauner</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Knopf</COMPANY>
+        <PRICE>Price: 15</PRICE>
+        <YEAR>2023</YEAR>
+    </books>
+    <books>
+        <TITLE>Diary of a Wimpy Kid #1</TITLE>
+        <ARTIST>Jeff Kinney</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Amulet Books</COMPANY>
+        <PRICE>Price: 9.50</PRICE>
+        <YEAR>2009</YEAR>
+    </books>
+    <books>
+        <TITLE>The Giver</TITLE>
+        <ARTIST>Lois Lowry</ARTIST>
+        <COUNTRY>USA</COUNTRY>
+        <COMPANY>Houghton Mifflin Harcourt</COMPANY>
+        <PRICE>Price: 10.80</PRICE>
+        <YEAR>2014</YEAR>
+    </books>
+    <books>
+        <TITLE>Pachinko</TITLE>
+        <ARTIST>Min Jin Lee</ARTIST>
+        <COUNTRY>UK</COUNTRY>
+        <COMPANY>Head of Zeus</COMPANY>
+        <PRICE>Price: 13</PRICE>
+        <YEAR>2017</YEAR>
+    </books>
+
+</CATALOG>
